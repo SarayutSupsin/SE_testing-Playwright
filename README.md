@@ -69,6 +69,12 @@ npx playwright test --ui
 npx playwright show-report
 ```
 
+**เปิดใช้งาน code gen**
+
+```bash
+npx playwright codegen https://www.saucedemo.com/
+```
+
 ## 6. โครงสร้างโปรเจกต์
 
 ```text
